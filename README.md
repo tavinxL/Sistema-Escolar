@@ -167,7 +167,7 @@ A `Main` funciona como roteiro de testes manuais automatizados: cada cenário si
 * [x] Turmas e séries
 * [x] Professores e herança
 * [x] Boletim formatado
-* [ ] Menu no console
+* [x] Menu no console
 * [ ] Testes automatizados
 
 ### Evoluções planejadas
